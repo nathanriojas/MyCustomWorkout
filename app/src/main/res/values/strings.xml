@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCustomWorkout</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Exercises</string>
+    <string name="title_notifications">Workouts</string>
+    <string name="title_activity_exercises">Exercises</string>
+    <string name="title_activity_workouts">Workouts</string>
+</resources>
